@@ -192,7 +192,7 @@ namespace FitnessInfo.Common
         public SuspensionManagerException()
         {
         }
-
+        //
         public SuspensionManagerException(Exception e)
             : base("SuspensionManager failed", e)
         {
