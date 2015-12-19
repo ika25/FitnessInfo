@@ -154,7 +154,7 @@
     <PRIResource Include="Strings\en-US\Resources.resw" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Assets\Wide310x150Logo.scale-240.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-140.png" />
     <Content Include="DataModel\SampleData.json" />
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '12.0' ">
