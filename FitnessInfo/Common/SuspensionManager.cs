@@ -10,7 +10,7 @@ using Windows.Storage;
 using Windows.Storage.Streams;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
-
+//
 namespace FitnessInfo.Common
 {
     
