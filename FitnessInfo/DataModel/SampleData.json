@@ -9,11 +9,11 @@
     [
       {
         "UniqueId": "Group-1-Item-1",
-        "Title": "tits: 1",
+        "Title": "yo",
         "Subtitle": "Item Subtitle: 1",
         "ImagePath": "Assets/LightGray.png",
         "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
-        "Content" : "boobs"
+        "Content" : "ya"
       },
       {
         "UniqueId": "Group-1-Item-2",

@@ -23,6 +23,9 @@
 
     <ScrollViewer>
         <Grid x:Name="LayoutRoot">
+            <Grid.Background>
+                <ImageBrush ImageSource="/Assets/man.png"/>
+            </Grid.Background>
             <Grid.ChildrenTransitions>
                 <TransitionCollection>
                     <EntranceThemeTransition/>
@@ -33,7 +36,7 @@
                 <RowDefinition Height="*"/>
             </Grid.RowDefinitions>
 
-            
+            <!-- Title Panel -->
             <StackPanel Grid.Row="0" Margin="19,0,0,0">
                 <TextBlock x:Uid="Header" Text="application name" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0" />
                 <TextBlock Text="{Binding Title}" Style="{ThemeResource HeaderTextBlockStyle}" Margin="0,-6.5,0,26.5" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
@@ -43,7 +46,7 @@
 
 
                 <Image Source="{Binding ImagePath}"
-                       Margin="0,12,0,0"
+                       Margin="0,12,25,0"
                        Width="350"
                        Height="300"
                        Stretch="Fill" />
