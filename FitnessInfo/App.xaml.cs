@@ -30,7 +30,9 @@ namespace FitnessInfo
             this.InitializeComponent();
             this.Suspending += this.OnSuspending;
         }
-        
+
+       
+
         protected override void OnLaunched(LaunchActivatedEventArgs e)
         {
 #if DEBUG

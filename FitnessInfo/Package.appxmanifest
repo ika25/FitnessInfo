@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
-  <Identity Name="16707IrakliLomidze.FitnessInfo" Publisher="CN=276FF0D0-51B6-47E4-AAC2-91CA2274A6F8" Version="1.1.0.3" />
+  <Identity Name="16707IrakliLomidze.FitnessInfo" Publisher="CN=276FF0D0-51B6-47E4-AAC2-91CA2274A6F8" Version="1.1.0.6" />
   <mp:PhoneIdentity PhoneProductId="bd2fe8a2-3965-4072-826f-4d494bcd8c1b" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>Fitness Info</DisplayName>

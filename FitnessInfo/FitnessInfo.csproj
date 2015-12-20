@@ -109,6 +109,7 @@
     <Content Include="Assets\abs.jpg" />
     <Content Include="Assets\back.jpg" />
     <Content Include="Assets\Background.theme-light.png" />
+    <Content Include="Assets\BadgeLogo.scale-240.png" />
     <Content Include="Assets\bicep.jpg" />
     <Content Include="Assets\carbs.jpg" />
     <Content Include="Assets\chest.jpg" />

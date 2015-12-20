@@ -43,7 +43,8 @@ namespace FitnessInfo
             this.navigationHelper.SaveState += this.NavigationHelper_SaveState;
         }
 
-        
+       
+
         public NavigationHelper NavigationHelper
         {
             get { return this.navigationHelper; }

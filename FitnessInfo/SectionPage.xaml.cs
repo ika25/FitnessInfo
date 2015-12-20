@@ -35,6 +35,7 @@ namespace FitnessInfo
         }
 
         
+
         public NavigationHelper NavigationHelper
         {
             get { return this.navigationHelper; }
